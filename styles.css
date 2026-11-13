@@ -7,8 +7,7 @@ body {
 	width: auto;
 	height: auto;
 	padding: 5px;
-	border: 1px solid;
-	border-color: #be95c4;
+	border: 1px solid black;
 	background-color: #be95c4;
 	color: #231942;
 	}
@@ -17,8 +16,7 @@ body {
 	width: auto;
 	height: auto;
 	padding: 5px;
-	border: 1px solid;
-	border-color: #e0b1cb;
+	border: 1px solid black;
 	background-color: #e0b1cb;
 	}
 	
